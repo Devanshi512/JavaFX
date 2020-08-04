@@ -1,6 +1,6 @@
 # PhoneBook App
 
-This project is basically PhoneBook App which is rich in UI (using JavaFX) and provides number of features for end users.
+This project is basically contact book Application which is rich in UI (using JavaFX) and provides number of features to the end users.
 
 >> Add the contact <br >
 >> Edit the contact <br >
